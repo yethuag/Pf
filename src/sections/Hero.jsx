@@ -6,7 +6,7 @@ import { Float } from "@react-three/drei";
 import { useMediaQuery } from "react-responsive";
 import { easing } from "maath";
 import { Suspense } from "react";
-import ParallaxBackground from "../components/parallaxBackground";
+import ParallaxBackground from "../components/ParallaxBackground";
 import Loader from "../components/Loader";
 // import { BoyWarrior } from "../components/BoyWarrior";
 // rm -rf .git to clear the git history
