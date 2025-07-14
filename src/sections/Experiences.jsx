@@ -1,4 +1,4 @@
-import ParallaxBackground from "../components/ParallaxBackground";
+import ParallaxBackground from "../components/parallaxBackground";
 import { Timeline } from "../components/Timeline";
 import { experiences } from "../constants";
 const Experiences = () => {
